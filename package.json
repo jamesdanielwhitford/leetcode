@@ -1,12 +1,18 @@
 {
-  "name": "leetcode-solutions",
+  "name": "leetcode",
   "version": "1.0.0",
-  "description": "LeetCode solutions with tests",
   "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
   }
