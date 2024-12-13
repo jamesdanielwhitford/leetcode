@@ -1,5 +1,5 @@
 // File: tests/canPlaceFlowers.test.js
-const canPlaceFlowers = require('../solutions/canPlaceFlowers');
+const canPlaceFlowers = require('../solutions/leet_code_75/arrays_strings/canPlaceFlowers/canPlaceFlowers');
 
 // Function to create a deep copy of array to prevent test interference
 const cloneArray = (arr) => [...arr];
